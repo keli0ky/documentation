@@ -26,17 +26,11 @@
 git clone https://github.com/matheusesilva/emendas-polars.git
 cd emendas-polars
 
-text
-
 2. Установите необходимые зависимости:
 pip install polars duckdb pyyaml requests
 
-text
-
 3. Запустите ETL-пайплайн (скачивание, очистка и подготовка данных):
 python main.py
-
-text
 
 После выполнения команды в папке `data/` появятся готовые файлы для дашборда.
 
