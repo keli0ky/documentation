@@ -22,7 +22,7 @@
 
 Вы можете запустить обработку данных локально, чтобы проверить работу пайплайна.
 
-1. Клонируйте репозиторий:
+1. Клонируйте репозиторий с GitHub:
 git clone https://github.com/matheusesilva/emendas-polars.git
 cd emendas-polars
 
@@ -49,10 +49,10 @@ $ python main.py
 [INFO] Silver transformations applied.
 [INFO] Gold layer (Star Schema) exported successfully.
 Ссылки и лицензия
-Дашборд проекта: https://matheusesilva.github.io/emendas-polars/
+Исходный код проекта: https://github.com/matheusesilva/emendas-polars
 
-Исходный код и технические детали: https://github.com/matheusesilva/emendas-polars
+Дашборд проекта: https://matheusesilva.github.io/emendas-polars/
 
 Проблемы: Известно, что дашборд может не работать в Firefox из-за особенностей обработки Gzip-сжатия на GitHub Pages.
 
-Лицензия: MIT (файл LICENSE добавлен в корень проекта).
+Лицензия: MIT.
